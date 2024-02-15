@@ -9,9 +9,9 @@ a:link {
   color: red;}
 a:visited {
   color: green;}
-input [type="submit"] :hover {
+input [type="submit"]:hover {
   background-color: red;}
-input [type="submit"] :active {
+input [type="submit"]:active {
   background-color: green;}
 ul {
   list-style-type: square;}
